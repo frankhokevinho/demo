@@ -8,51 +8,63 @@
     "last_months_amount": [
         {
             "mois": "Janvier",
-            "gains": 10500
+            "gains": 10500,
+            "status": "Payé"
         },
         {
             "mois": "Fevrier",
-            "gains": 22500
+            "gains": 22500,
+            "status": "Payé"
         },
         {
             "mois": "Mars",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         },
         {
             "mois": "Avril",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         },
         {
             "mois": "Mai",
-            "gains": 10500
+            "gains": 10500,
+            "status": "Payé"
         },
         {
             "mois": "Juin",
-            "gains": 22500
+            "gains": 22500,
+            "status": "Payé"
         },
         {
             "mois": "Juillet",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         },
         {
             "mois": "Août",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         },
         {
             "mois": "Septembre",
-            "gains": 10500
+            "gains": 10500,
+            "status": "Payé"
         },
         {
             "mois": "Octobre",
-            "gains": 22500
+            "gains": 22500,
+            "status": "Payé"
         },
         {
             "mois": "Novembre",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         },
         {
             "mois": "Decembre",
-            "gains": 45050
+            "gains": 45050,
+            "status": "Payé"
         }
     ]
   }
