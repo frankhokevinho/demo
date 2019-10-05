@@ -1,5 +1,5 @@
 {
-  home:{
+  "home":{
     "last_days_amount": {
         "today": 10500 ,
         "yesterday": 22500 ,
