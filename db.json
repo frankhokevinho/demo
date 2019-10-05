@@ -9,62 +9,74 @@
         {
             "mois": "Janvier",
             "gains": 10500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Fevrier",
             "gains": 22500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Mars",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Avril",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Mai",
             "gains": 10500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Juin",
             "gains": 22500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Juillet",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Août",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Septembre",
             "gains": 10500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Octobre",
             "gains": 22500,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Novembre",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         },
         {
             "mois": "Decembre",
             "gains": 45050,
-            "status": "Payé"
+            "status": "Payé",
+            "personnalite": "Maître Gim's"
         }
     ]
   }
