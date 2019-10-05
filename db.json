@@ -1,13 +1,24 @@
 {
-  "last_days": {
-      { "today": 10500 },
-      { "yesterday": 22500 },
-      { "day_before_yesterday": 45050 }
+  "last_days_amount": {
+      "today": 10500 ,
+      "yesterday": 22500 ,
+      "day_before_yesterday": 45050
     },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "last_months_amount": {
+      "Janvier": 10500 ,
+      "Fevrier": 22500 ,
+      "Mars": 45050,
+      "Avril": 45050,
+      "Mai": 10500 ,
+      "Juin": 22500 ,
+      "Juillet": 45050,
+      "Août": 45050,
+      "Septembre": 10500 ,
+      "Octobre": 22500 ,
+      "Novembre": 45050,
+      "Decembre": 45050
+    
+  }
   "profile": {
     "name": "typicode"
   }
